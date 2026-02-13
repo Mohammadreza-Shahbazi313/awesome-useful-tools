@@ -34,6 +34,7 @@ A curated collection of amazingly useful websites, tools, and resources for deve
 | [Figma](https://figma.com) | The collaborative interface design tool. | Freemium |
 | [Coolors](https://coolors.co) | The super fast color schemes generator. | Freemium |
 | [FontJoy](https://fontjoy.com) | Generate font pairings with deep learning. | Free |
+| [BulkPicTools]([https://fontjoy.com](https://bulkpictools.com)) | A high-performance, privacy-focused image optimizer using WASM. Support bulk compression and conversion entirely in the browser. | Free |
 
 ## 🤖 Artificial Intelligence
 
