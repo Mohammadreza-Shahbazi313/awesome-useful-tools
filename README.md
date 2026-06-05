@@ -32,6 +32,7 @@ A curated collection of amazingly useful websites, tools, and resources for deve
 | Tool | Description | Price |
 | :--- | :--- | :--- |
 | [Figma](https://figma.com) | The collaborative interface design tool. | Freemium |
+| [FreePNGConvert](https://freepngconvert.com) | Free WebP to PNG converter, browser-based, privacy-first. | Free |
 | [Coolors](https://coolors.co) | The super fast color schemes generator. | Freemium |
 | [FontJoy](https://fontjoy.com) | Generate font pairings with deep learning. | Free |
 
