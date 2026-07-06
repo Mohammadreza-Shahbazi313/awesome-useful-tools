@@ -26,6 +26,7 @@ A curated collection of amazingly useful websites, tools, and resources for deve
 | [DevDocs](https://devdocs.io) | Fast, offline, and free documentation browser for developers. | Free |
 | [Regex101](https://regex101.com) | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript. | Free |
 | [JSON Crack](https://jsoncrack.com) | Visualize JSON data instantly into graphs. | Free |
+| [DevBox Tools](https://devbox.tools) | Browser-based developer toolbox with 58+ utilities for JSON, regex, hashing, encoding, timestamps. | Free |
 
 ## 🎨 Design & UI/UX
 
