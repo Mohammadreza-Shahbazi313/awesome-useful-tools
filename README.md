@@ -67,3 +67,5 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+- [FreePNGConvert](https://freepngconvert.com) - Free browser-based WebP to PNG converter. No upload required — all image processing happens client-side for privacy and speed.
+
