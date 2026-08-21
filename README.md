@@ -26,6 +26,7 @@ A curated collection of amazingly useful websites, tools, and resources for deve
 | [DevDocs](https://devdocs.io) | Fast, offline, and free documentation browser for developers. | Free |
 | [Regex101](https://regex101.com) | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript. | Free |
 | [JSON Crack](https://jsoncrack.com) | Visualize JSON data instantly into graphs. | Free |
+| [Codex Theme Builder](https://codextheme.tools) | Free browser theme builder for OpenAI Codex with live preview and CSS token export. | Free |
 
 ## 🎨 Design & UI/UX
 
@@ -34,6 +35,7 @@ A curated collection of amazingly useful websites, tools, and resources for deve
 | [Figma](https://figma.com) | The collaborative interface design tool. | Freemium |
 | [Coolors](https://coolors.co) | The super fast color schemes generator. | Freemium |
 | [FontJoy](https://fontjoy.com) | Generate font pairings with deep learning. | Free |
+| [Image to Crochet Pattern](https://imagetocrochetpattern.com) | Convert any image into a crochet pattern in the browser. | Free |
 
 ## 🤖 Artificial Intelligence
 
@@ -46,6 +48,11 @@ A curated collection of amazingly useful websites, tools, and resources for deve
 - **[Notion](https://notion.so)** - All-in-one workspace for notes and project management.
 - **[Trello](https://trello.com)** - Kanban-style list-making application.
 - **[Excalidraw](https://excalidraw.com)** - Virtual whiteboard for sketching hand-drawn like diagrams.
+- **[WattsCalc](https://wattscalc.com)** - Free wattage and electricity cost calculator for appliances and devices.
+- **[Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com)** - Free calculator for lawn mowing cost estimates by area, rate, and extras.
+- **[Embroidery Pricing Calculator](https://embroiderypricingcalculator.com)** - Free embroidery job pricing from stitches, fabric, and labor.
+- **[Pressure Washer Fix](https://pressurewasherfix.com)** - Free troubleshooting guides for common pressure washer problems.
+- **[SkyCOTL Tools](https://skycotl.tools)** - Free guides and calculators for Sky: Children of the Light.
 
 ## 📚 Learning Resources
 
