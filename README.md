@@ -22,6 +22,7 @@ A curated collection of amazingly useful websites, tools, and resources for deve
 
 | Tool | Description | Price |
 | :--- | :--- | :--- |
+| [Agent QA](https://github.com/vostride/agent-qa) | Natural-language web and mobile testing with execution memory and MCP tools; source-available under FSL-1.1-ALv2. | No software fee for permitted use; provider costs separate |
 | [Carbon](https://carbon.now.sh) | Create and share beautiful images of your source code. | Free |
 | [DevDocs](https://devdocs.io) | Fast, offline, and free documentation browser for developers. | Free |
 | [Regex101](https://regex101.com) | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript. | Free |
