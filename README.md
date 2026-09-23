@@ -43,6 +43,8 @@ A curated collection of amazingly useful websites, tools, and resources for deve
 
 ## ⚡ Productivity
 
+- **[NextReset](https://nextreset.ai/)** - Source-linked public Codex reset history, official AI service incident references, and a browser-local timer.
+
 - **[Notion](https://notion.so)** - All-in-one workspace for notes and project management.
 - **[Trello](https://trello.com)** - Kanban-style list-making application.
 - **[Excalidraw](https://excalidraw.com)** - Virtual whiteboard for sketching hand-drawn like diagrams.
