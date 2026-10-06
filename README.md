@@ -43,9 +43,10 @@ A curated collection of amazingly useful websites, tools, and resources for deve
 
 ## ⚡ Productivity
 
+- **[Excalidraw](https://excalidraw.com)** - Virtual whiteboard for sketching hand-drawn like diagrams.
+- **[FollowerKaufen.at Content Planner](https://followerkaufen.at/resources/de_AT/content-planner.xlsx)** - Free German-language XLSX template for manually planning 30 content slots, with dates, topics, formats and evaluation.
 - **[Notion](https://notion.so)** - All-in-one workspace for notes and project management.
 - **[Trello](https://trello.com)** - Kanban-style list-making application.
-- **[Excalidraw](https://excalidraw.com)** - Virtual whiteboard for sketching hand-drawn like diagrams.
 
 ## 📚 Learning Resources
 
