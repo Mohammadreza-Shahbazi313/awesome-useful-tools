@@ -40,6 +40,7 @@ A curated collection of amazingly useful websites, tools, and resources for deve
 - **[ChatGPT](https://chat.openai.com)** - Conversational AI model by OpenAI.
 - **[Midjourney](https://midjourney.com)** - AI art generator.
 - **[Hugging Face](https://huggingface.co)** - The AI community building the future.
+- **[QuietTake Noise Remover](https://noiseremover.site)** - Free speech noise reduction with local browser processing.
 
 ## ⚡ Productivity
 
