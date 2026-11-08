@@ -29,6 +29,8 @@ A curated collection of amazingly useful websites, tools, and resources for deve
 
 ## 🎨 Design & UI/UX
 
+- [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant) - Pair script headings with body fonts for lettering layouts.
+
 | Tool | Description | Price |
 | :--- | :--- | :--- |
 | [Figma](https://figma.com) | The collaborative interface design tool. | Freemium |
