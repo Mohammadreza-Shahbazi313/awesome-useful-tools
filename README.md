@@ -51,6 +51,7 @@ A curated collection of amazingly useful websites, tools, and resources for deve
 
 - **[freeCodeCamp](https://www.freecodecamp.org)** - Learn to code for free.
 - **[Roadmap.sh](https://roadmap.sh)** - Developer roadmaps, guides and other educational content.
+- **[Resource Planet](https://resources.packscena.com/categories/learning/)** - Browse a free Chinese-language catalog of study materials and preview resource listings before claiming them.
 
 ---
 
