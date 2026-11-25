@@ -20,6 +20,8 @@ A curated collection of amazingly useful websites, tools, and resources for deve
 
 ## 💻 Development
 
+- [BestJSON](https://bestjson.com/) - Format, validate and preview repairs to JSON locally in the browser.
+
 | Tool | Description | Price |
 | :--- | :--- | :--- |
 | [Carbon](https://carbon.now.sh) | Create and share beautiful images of your source code. | Free |
