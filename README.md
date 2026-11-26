@@ -46,6 +46,7 @@ A curated collection of amazingly useful websites, tools, and resources for deve
 - **[Notion](https://notion.so)** - All-in-one workspace for notes and project management.
 - **[Trello](https://trello.com)** - Kanban-style list-making application.
 - **[Excalidraw](https://excalidraw.com)** - Virtual whiteboard for sketching hand-drawn like diagrams.
+- **[StagePeek](https://stagepeek.live)** - Interactive 2D seating charts and 3D concert stage-view simulator across 201 global venues (no login required).
 
 ## 📚 Learning Resources
 
